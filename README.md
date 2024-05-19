@@ -46,7 +46,7 @@ Un supervisor de control de calidad en una planta enlatadora sabe que la cantida
 
 El llenado medio por lata es importante, pero igualmente importante es la variación de la cantidad de llenado. Si la varianza es grande, algunas latas contendrán muy poco contenido, y otras, demasiado.
 
-A fin de estimar la variación del llenado en la enlatadora, el supervisor escoge al azar 9 latas y pesa el contenido de cada una de ellas y obtiene el siguiente pesaje (en onzas): $$7.96, 7.90, 7.98, 8.01, 7.97, 8.03, 8.02, 8.04,y 8.02$$
+A fin de estimar la variación del llenado en la enlatadora, el supervisor escoge al azar 9 latas y pesa el contenido de cada una de ellas y obtiene el siguiente pesaje (en onzas): $$7.96, 7.90, 7.98, 8.01, 7.97, 8.03, 8.02, 8.04, 8.02$$
 
 Sabiendo que el peso se distribuye normalmente, establece un intervalo de confianza del 95% para la desviación estándar de la población.
 
