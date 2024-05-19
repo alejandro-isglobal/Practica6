@@ -31,7 +31,7 @@ comandos:
 
 # Ejercicio 1
 
-La prueba de impacto de Charpy, también conocida como prueba de muesca en V de Charpy, es una prueba de velocidad de deformación estandarizada que determina la cantidad de energía absorbida por un material durante la fractura. Se ha puesto a prueba una muestra de 10 placas de acero A238 y se han obtenido las siguientes medidas de energía en Julios: $$67, 67.3, 67.8, 66.4, 67.5, 67.5, 66.6, 67.1, 66.5 y 66.9$$ Asumiendo que la energía de impacto está normalmente distribuida, hallaremos el intervalo de confianza para la media de la energía deimpacto con un nivel de confianza del 95%.
+La prueba de impacto de Charpy, también conocida como prueba de muesca en V de Charpy, es una prueba de velocidad de deformación estandarizada que determina la cantidad de energía absorbida por un material durante la fractura. Se ha puesto a prueba una muestra de 10 placas de acero A238 y se han obtenido las siguientes medidas de energía en Julios: $$67, 67.3, 67.8, 66.4, 67.5, 67.5, 66.6, 67.1, 66.5, 66.9$$ Asumiendo que la energía de impacto está normalmente distribuida, hallaremos el intervalo de confianza para la media de la energía deimpacto con un nivel de confianza del 95%.
 
 - ¿Cuál es error estándar?
 
